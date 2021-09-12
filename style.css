@@ -1,0 +1,17 @@
+.card{
+    height: 300px;
+    width: 650px;
+    background-color: #9e7b81;
+    padding: 12px;
+    border-radius: 7px;
+    filter: drop-shadow(5px 18px 100px rgba(0, 0, 0, 0.90));
+}
+.name{
+    font-family: 'Urbanist', sans-serif;
+    color: #fff;
+}
+.pos{
+    font-size: 14px;
+    color: #fff;
+    font-family: 'Urbanist', sans-serif;
+}
